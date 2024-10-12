@@ -1,4 +1,2 @@
-# Acciojob Assignment Solution Template Repo
-
-# Instructions  
+# Showing that how to Store Data Using Array
 
